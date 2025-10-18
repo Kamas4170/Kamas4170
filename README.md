@@ -36,9 +36,7 @@
 
 - 📧 Email: kamas4170@gmail.com  
 - 📸 Instagram: [@kamas4170](https://instagram.com/kamas4170)  
-- 💼 LinkedIn: [Salahudin Mohamed Ibrahim](www.linkedin.com/in/
-salahudin-mohamed-ibrahim-6a06692b5
-)
+- 💼 LinkedIn: [Salahudin Mohamed Ibrahim](https://www.linkedin.com/in/salahudin-mohamed-ibrahim-6a06692b5)
 
 
 <!--
