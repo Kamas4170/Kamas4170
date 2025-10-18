@@ -1,26 +1,35 @@
-# 👋 Hi, I'm Salahudin Mohamed
+# 👋 Hi, I'm Salahudin Mohamed  
 
-🎓 Computer Science student at Najran University  
-💻 Passionate about building impactful software  
-🌐 Currently working on AI and ML projects
-
----
-
-## 🚀 About Me
-
-- 📚 Education: Computer Science @ Najran University
-- 💼 Experience: Python, C++, Java, JavaScript, Flask, Git, GitHub
-- 🧠 Interests: Web Dev, AI/ML, UX/UI, Cybersecurity
-- 📢 Community: Sharing my learning journey and helping others grow
+🎓 **Computer Science Student @ Najran University**  
+🤖 **AI & Machine Learning Enthusiast** | 💻 **Software Developer**  
+🌍 Passionate about building intelligent, impactful, and scalable solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me  
 
-**Languages:** Python, C++, Java, JavaScript  
-**Frameworks:** Flask, React (learning), Bootstrap  
-**Tools:** VS Code, Git, GitHub, Docker, Canva  
-**Databases:** SQLite, PostgreSQL
+- 🎓 **Education:** B.Sc. in Computer Science @ Najran University  
+- 💼 **Experience:** Python, C++, Java, JavaScript, Flask, Git, GitHub  
+- 🧠 **Focus Areas:** Artificial Intelligence, Machine Learning, Data Science, and Deep Learning  
+- 🌐 **Interests:** Web Development, AI/ML, Cybersecurity, and Human–Computer Interaction  
+- 🌱 **Currently Learning:** Advanced ML algorithms, MLOps, and Neural Network architectures  
+- 🤝 **Community:** Sharing my learning journey and helping others explore AI & tech  
+
+---
+
+## 🧰 Technical Skills  
+
+**Languages:**  
+Python · C++ · Java · JavaScript  
+
+**Frameworks & Libraries:**  
+TensorFlow · Scikit-learn · Flask · React (learning) · Bootstrap  
+
+**Tools:**  
+VS Code · Git · GitHub · Docker · Canva  
+
+**Databases:**  
+SQLite · PostgreSQL
 
 ---
 
