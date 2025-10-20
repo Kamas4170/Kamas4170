@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamas4170&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamas4170&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamas4170&layout=compact&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamas4170&theme=radical&hide_border=true)
 
